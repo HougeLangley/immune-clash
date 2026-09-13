@@ -1,0 +1,5 @@
+.godot/
+build/
+*.tmp
+user:///
+*.import
