@@ -154,7 +154,7 @@ SOFTWARE.
 
 如果这个游戏给你或你的孩子带来了快乐，欢迎请我喝一杯咖啡！
 
-![收款码](docs_donate.png)
+<img src="docs_donate.png" width="200" alt="收款码" />
 
 你的支持是我继续开发的动力！🙏
 
@@ -163,10 +163,10 @@ SOFTWARE.
 ## 🎬 演示视频
 
 ### Bilibili
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=117263982200278&bvid=BV1GEYi6kEYR&cid=41861449612&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="360"></iframe>
+[![Bilibili 演示](https://img.shields.io/badge/▶_观看_Bilibili_演示视频-FF69B4?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1GEYi6kEYR)
 
 ### YouTube
-[![YouTube Demo](https://img.youtube.com/vi/Cc4Tujw2tZE/maxresdefault.jpg)](https://youtu.be/Cc4Tujw2tZE)
+[![YouTube Demo](https://img.youtube.com/vi/Cc4Tujw2tZE/maxresdefault.jpg)](https://youtu.be/Cc4Tujw2tZE "点击播放")
 
 ---
 
